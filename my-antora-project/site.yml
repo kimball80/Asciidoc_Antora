@@ -1,4 +1,3 @@
-name: component-name
 site:
   title: My Documentation Site
   start_page: component-name::index.adoc
