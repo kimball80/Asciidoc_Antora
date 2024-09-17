@@ -1,5 +1,0 @@
-name: component-name
-title: My Documentation Component
-version: 1.0
-nav:
-  - modules/ROOT/nav.adoc
