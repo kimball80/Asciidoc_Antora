@@ -1,2 +1,0 @@
-* xref:file1.adoc[File 1] 
-* xref:file2.adoc[File 2] 
